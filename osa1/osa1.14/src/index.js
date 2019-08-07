@@ -1,5 +1,5 @@
 // --------------------------------------------------------------------------
-// --- Tehtävä          1.14*: anekdootit step3
+// --- Tehtävä          Osa 1.14* Anekdootit step 3
 // --- Pvm:             21.4.2019 Timo Kivinen
 // ---                  4.6.2019 (siistitty)  
 // --- Aikaa käytetty:  2 h
