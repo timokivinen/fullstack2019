@@ -1,5 +1,5 @@
 // -----------------------------------------------------------
-// --- Tehtävä          1.4: kurssitiedot, step4
+// --- Tehtävä          1.4: kurssitiedot, step4 
 // --- Pvm:             6.4.2019 Timo Kivinen
 // ---                  4.6.2019 (siistitty)  
 // --- Aikaa käytetty:  8 h
