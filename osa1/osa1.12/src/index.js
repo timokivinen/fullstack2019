@@ -1,5 +1,5 @@
 // --------------------------------------------------------------------------
-// --- Tehtävä          Osa 1.12 Unicafe step 7
+// --- Tehtävä          Osa 1.12* Anekdootit step 1 
 // --- Pvm:             12.4.2019 Timo Kivinen
 // ---                  4.6.2019 (siistitty)  
 // --- Aikaa käytetty:  5 h
