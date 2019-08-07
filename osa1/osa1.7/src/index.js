@@ -1,5 +1,5 @@
 // --------------------------------------------------------------------------
-// --- Tehtävä          Osa 1.7 Unicafe step 2
+// --- Tehtävä          Osa 1.7 Unicafe step 2 
 // --- Pvm:             10.4.2019 Timo Kivinen
 // ---                  4.6.2019 (siistitty)  
 // --- Aikaa käytetty:  2 h
