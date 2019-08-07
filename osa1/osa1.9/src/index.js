@@ -1,5 +1,5 @@
 // --------------------------------------------------------------------------
-// --- Tehtävä          1.9 step 4: Unicafe
+// --- Tehtävä          Osa 1.9 Unicafe step 4 
 // --- Pvm:             11.4.2019 Timo Kivinen
 // ---                  4.6.2019 (siistitty)  
 // --- Aikaa käytetty:  2 h
