@@ -1,5 +1,5 @@
 // --------------------------------------------------------------------------
-// --- Tehtävä          Osa 1.11 Unicafe step 6  
+// --- Tehtävä          Osa 1.11* Unicafe step 6  
 // --- Pvm:             11.4.2019 Timo Kivinen
 // ---                  4.6.2019 (siistitty)  
 // --- Aikaa käytetty:  1 h
