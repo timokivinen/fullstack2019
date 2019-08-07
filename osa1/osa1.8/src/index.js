@@ -1,5 +1,5 @@
 // --------------------------------------------------------------------------
-// --- Tehtävä          1.8 step 3: Unicafe
+// --- Tehtävä          Osa 1.8 Unicafe step 3 
 // --- Pvm:             10.4.2019 Timo Kivinen
 // ---                  4.6.2019 (siistitty)  
 // --- Aikaa käytetty:  2 h
