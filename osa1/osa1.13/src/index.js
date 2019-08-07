@@ -1,5 +1,5 @@
 // --------------------------------------------------------------------------
-// --- Tehtävä          1.13*: anekdootit step2
+// --- Tehtävä          Osa 1.13* Anekdootit step 2
 // --- Pvm:             21.4.2019 Timo Kivinen
 // ---                  4.6.2019 (siistitty)  
 // --- Aikaa käytetty:  5 h
