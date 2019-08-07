@@ -1,5 +1,5 @@
 // --------------------------------------------------------------------------
-// --- Tehtävä          1.10: unicafe step5
+// --- Tehtävä          Osa 1.10 Unicafe step 5 
 // --- Pvm:             11.4.2019 Timo Kivinen
 // ---                  4.6.2019 (siistitty)  
 // --- Aikaa käytetty:  3 h
