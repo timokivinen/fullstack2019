@@ -1,0 +1,7 @@
+
+VAROITUS 
+create-react-app tekee projektista automaattisesti git-repositorion, 
+ellei sovellusta luoda jo olemassaolevan repositorion sisälle.
+
+Todennäköisesti et halua että projektista tulee repositorio, 
+joten suorita projektin juuressa komento rm -rf .git.
