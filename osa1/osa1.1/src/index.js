@@ -1,5 +1,5 @@
 // -----------------------------------------------------------
-// --- Tehtävä          1.1: kurssitiedot, step1
+// --- Tehtävä          1.1: kurssitiedot, step1 
 // --- Pvm:             20.3.2019 Timo Kivinen
 // ---                  4.6.2019 (siistitty)  
 // --- Aikaa käytetty:  5 h
