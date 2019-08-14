@@ -1,0 +1,24 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellasx",
+      "number": "040-123456",
+      "id": 1
+    },
+    {
+      "name": "Martti Tienarix",
+      "number": "040-123456",
+      "id": 2
+    },
+    {
+      "name": "Arto Järvinenx",
+      "number": "040-123456",
+      "id": 3
+    },
+    {
+      "name": "Lea Kutvonenx",
+      "number": "040-123456",
+      "id": 4
+    }
+  ]
+}
