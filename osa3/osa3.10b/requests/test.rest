@@ -1,0 +1,29 @@
+// --------------------------------------------------------------------------
+// --- 18.6.2019 TK
+// ---
+// --- URL	      verbi     toiminnallisuus
+// --------------------------------------------------------------------------
+// --- notes/10   GET	      hakee yksittäisen resurssin
+// --- notes	    GET	      hakee kokoelman kaikki resurssit
+// --- notes	    POST	    luo uuden resurssin pyynnön mukana olevasta datasta
+// --- notes/10	  DELETE    poistaa yksilöidyn resurssin
+// --- notes/10	  PUT	      korvaa yksilöidyn resurssin pyynnön mukana olevalla datalla
+// --- notes/10	  PATCH	    korvaa yksilöidyn resurssin osan pyynnön mukana olevalla datalla
+// --------------------------------------------------------------------------
+
+// GET https://mysterious-scrubland-61877.herokuapp.com/api/info
+GET https://mysterious-scrubland-61877.herokuapp.com/api/persons
+// GET https://mysterious-scrubland-61877.herokuapp.com/api/persons/2
+
+
+// DELETE https://mysterious-scrubland-61877.herokuapp.com/api/persons/5
+
+// --- ADD
+//POST https://mysterious-scrubland-61877.herokuapp.com/api/persons
+//Content-Type: application/json
+//
+//{
+//    "name": "Esko vaa 23",
+//    "number": "123456789",
+//    "important": false
+//}
