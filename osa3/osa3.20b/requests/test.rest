@@ -1,0 +1,23 @@
+
+
+PUT http://localhost:3001/api/person/5d6e1c490c677507c02fc579
+
+Content-Type: application/json
+
+{
+    "name": "aaa",
+    "number": "12345678"
+}
+
+
+
+
+
+
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+
+{
+    "name": "aaa",
+    "number": "12345678"
+}
