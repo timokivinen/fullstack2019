@@ -1,0 +1,27 @@
+// --------------------------------------------------------------------------
+// --- Tehtävä          3.20f
+// --- Pvm:             3.9.2019 Timo Kivinen
+// ---                  
+// --- Aikaa käytetty:  x h
+// --------------------------------------------------------------------------
+// --- Projektin luonti:    npm create react-app osaX.XXf
+// --- Axios install:       npm install axios
+// --------------------------------------------------------------------------
+// --- 1) Back end:         app.use(express.static('build'))
+// --- 2) Front end:        baseUrl = /aaa/bbb
+// --- 3) Production build  npm run build (Front End)
+// --- 4) Copy frontend Build dir to backend dir
+// --- 5) Test local        localhost:3001  (npm start back end)
+// --- 5) Back End          git init, git add build..., git commit, git push heroku master
+// --------------------------------------------------------------------------
+// --- git add .gitignore build index.js package-lock.json package.json Procfile requests
+import React from 'react'
+import ReactDOM from 'react-dom'
+import App from './App'
+import './index.css'
+
+ReactDOM.render(
+  <App />,
+  document.getElementById('root')
+)
+
